@@ -26,3 +26,7 @@ body{
     background-color: white;
     color: black;
 }
+
+.navbar-toggler{
+    background-color: white;
+}
