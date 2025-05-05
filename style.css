@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    background-color: rgb(68, 1, 1);
+    
+}
+
+#cabecalho .navbar-brand{
+    font-family:"Cinzel", serif;
+    color: white;
+}
+
+#cabecalho .navbar-brand #coreano{
+    font-family: "Noto Serif KR", serif;
+}
+
+#cabecalho .nav .nav-link{
+    color: white;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: white;
+    color: black;
+}
