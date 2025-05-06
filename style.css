@@ -30,3 +30,7 @@ body{
 .navbar-toggler{
     background-color: white;
 }
+
+.carousel .carousel-item img{
+    height: 500px;
+}
