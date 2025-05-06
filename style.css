@@ -20,11 +20,14 @@ body{
 }
 
 #cabecalho .nav .nav-link, 
-.nav-cardapio .nav-link .active{
+.nav-cardapio .nav-link .active, 
+#cabecalho .nav .nav-link i{
     color: white;
 }
 
-#cabecalho .nav .nav-link.active{
+
+#cabecalho .nav .nav-link.active,
+#cabecalho .nav .nav-link.active i{
     background-color: white;
     color: black;
 }
