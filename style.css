@@ -4,7 +4,8 @@ body{
     font-family: "Roboto", sans-serif;
 }
 
-.navbar{
+.navbar, 
+.nav-cardapio .nav-link.active{
     background-color: rgb(68, 1, 1);
     
 }
@@ -18,7 +19,8 @@ body{
     font-family: "Noto Serif KR", serif;
 }
 
-#cabecalho .nav .nav-link{
+#cabecalho .nav .nav-link, 
+.nav-cardapio .nav-link .active{
     color: white;
 }
 
@@ -31,7 +33,8 @@ body{
     background-color: white;
 }
 
-section#sobre{
+section#sobre, 
+section#cardapio{
     background-color:rgba(245, 208, 208, 0.973) ;
 }
 
@@ -46,4 +49,8 @@ section#sobre{
 .title{
     font-family: "Cinzel", serif;
     color: rgb(68, 1, 1);
+}
+
+.nav-cardapio .nav-link{
+    color: black;
 }
