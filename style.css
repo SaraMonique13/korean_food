@@ -54,6 +54,15 @@ section#cardapio{
     color: rgb(68, 1, 1);
 }
 
+.text-colored{
+    color:rgb(68, 1, 1) ;
+}
+
 .nav-cardapio .nav-link{
     color: black;
+}
+
+.tab-content .tab-pane img{
+    height: 250px;
+    margin-top: 10px;
 }
