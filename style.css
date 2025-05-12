@@ -2,6 +2,7 @@
 
 body{
     font-family: "Roboto", sans-serif;
+    overflow-x: hidden;
 }
 
 .navbar, 
@@ -64,4 +65,26 @@ section#cardapio{
 
 .tab-content .tab-pane img{
     margin-top: 20px;
+}
+
+#contato button{
+    background-color:rgb(68, 1, 1) ;
+    color: white;
+}
+
+.social-links li{
+    display: inline;
+    list-style: none;
+}
+
+.social-links a{
+    text-decoration: none;
+    color: rgb(68, 1, 1);
+}
+
+@media (max-width: 767px){
+    #sobre .carousel-item img{
+        height: 280px;
+    }
+
 }
