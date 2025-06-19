@@ -6,9 +6,6 @@ Projeto de site institucional para um restaurante coreano fictício, com foco em
 ## 🌐 Demo
 > (adicione o link do GitHub Pages ou outro serviço de hospedagem, se desejar)
 
-## 📷 Preview
-![Preview do Site](caminho/para/uma/imagem-do-site.png)
-
 ## 📚 Seções do Site
 
 - **Sobre o Restaurante**: descrição institucional com imagens do ambiente.
@@ -62,3 +59,6 @@ Formulário no site ou redes sociais fictícias adicionadas no rodapé.
 ## 👩‍💻 Autoria
 
 Desenvolvido por **Sara Monique** como parte de um projeto de aprendizado e desenvolvimento front-end com foco em design responsivo e interatividade.
+
+## 📷 Preview
+![Imagem do Projeto](https://github.com/SaraMonique13/korean_food/blob/main/download%20(1).png)
