@@ -3,9 +3,6 @@
 
 Projeto de site institucional para um restaurante coreano fictício, com foco em oferecer uma experiência cultural e gastronômica imersiva. O layout é moderno, responsivo e utiliza Bootstrap, HTML e CSS.
 
-## 🌐 Demo
-> (adicione o link do GitHub Pages ou outro serviço de hospedagem, se desejar)
-
 ## 📚 Seções do Site
 
 - **Sobre o Restaurante**: descrição institucional com imagens do ambiente.
@@ -29,15 +26,11 @@ Projeto de site institucional para um restaurante coreano fictício, com foco em
 
 ## 🗂️ Estrutura do Projeto
 
-/
-├── index.html
-├── style.css
-├── imagens/
-│   ├── carrossel/
-│   ├── eventos/
-│   ├── bebidas/
-│   ├── comidas/
-│   └── ...
+
+index.html
+style.css
+imagens
+
 
 > As imagens devem ser organizadas em suas respectivas pastas conforme categorias do cardápio e seções.
 
@@ -52,7 +45,8 @@ Projeto de site institucional para um restaurante coreano fictício, com foco em
 
 ## 📬 Contato
 
-Formulário no site ou redes sociais fictícias adicionadas no rodapé.
+Telefone : (17) 99721-8302
+Email: moniquesarah5@gmail.com
 
 ---
 
